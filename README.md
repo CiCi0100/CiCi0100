@@ -3,7 +3,7 @@
 </h1>
 
 <div>
-  <h3>* GitHub Stats *</h3>
+  <h3> GitHub Stats </h3>
   <br>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CiCi0100&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&theme=dracula">
 
@@ -32,7 +32,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-origi
 
 #
 
-<h3> Para me contatar </h3>
+<h3> Para Me Contatar </h3>
 <div>
 <a href="mailto:ciarade0206@gmail.com?subject=Olá Ciara!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
