@@ -5,10 +5,10 @@
 <div>
   <h3> 🌐 GitHub Stats </h3>
   <br>
-  <img height="180em" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CiCi0100&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&theme=dracula">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CiCi0100&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&theme=dracula">
 
   <a href="https://github.com/CiCi0100/github-readme-stats">
-    <img height="180em" align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CiCi0100&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=dracula">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CiCi0100&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=dracula">
 </div>
 
 #
