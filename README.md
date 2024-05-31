@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Word!+👋;+me+chamo+Ciara;Seja+bem-vindo!" />
 </h1>
 
-<div>
+<div align="center">
   <h3> 🌐 GitHub Stats </h3>
   <br>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CiCi0100&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&theme=dracula">
@@ -33,8 +33,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-origi
 
 #
 
+<div align="center">
 <h3> 💼 Para Me Contatar </h3>
-<div>
 <a href="mailto:ciarade0206@gmail.com?subject=Olá Ciara!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <a href="https://www.linkedin.com/in/ciaradepaulanascimento0206/" target="_blanc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
