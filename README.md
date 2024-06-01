@@ -13,21 +13,20 @@
 
 #
 
-<div align="center">
- <h3>🚀 My Stack</h3>
+ <h3 align="center">🚀Tecnologias</h3>
+
+ <div align="center">
+<img alt"CiCi0100-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img alt"CiCi0100-JS" height="50" width="50"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img alt"CiCi0100-TS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img alt"CiCi0100-HTML" height="50" width="50"  
+<img alt"CiCi0100-HTML" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img alt"CiCi0100-CSS" height="50" width="50"
+<img alt"CiCi0100-CSS" height="50" width="50" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img alt"CiCi0100-Figma" height="50" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img alt"CiCi0100-VScode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />  
-<img alt"CiCi0100-Nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img alt"CiCi0100-Nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> 
-<img alt"CiCi0100-express" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+<img alt"CiCi0100-Eclipse" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+<img alt"CiCi0100-Cucumber" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg">
+<img alt"CiCi0100-Github" height="50" width="80" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
 
