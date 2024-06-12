@@ -26,7 +26,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 <img alt"CiCi0100-VScode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />  
 <img alt"CiCi0100-Eclipse" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
 <img alt"CiCi0100-Cucumber" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg">
-<img alt"CiCi0100-Github" height="50" width="80" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
 
