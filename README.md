@@ -1,44 +1,65 @@
- <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Word!+👋;+me+chamo+Ciara;Seja+bem-vindo!" />
-</h1>
-
-<div align="center">
-  <h3> 🌐 GitHub Stats </h3>
-  <br>
-
-  <a href="https://github.com/CiCi0100/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CiCi0100&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=dracula">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CiCi0100&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&theme=dracula">
-</div>
+### Hello Word, Welcome! I'm Ciara
 
 #
 
- <h3 align="center">🚀Tecnologias</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=4000&pause=500&color=F7F7F7&random=false&width=435&lines=%F0%9F%92%BB+i'm+a+test+analyst+;%E2%9D%A3%EF%B8%8F+i'm+love+coding!!;%F0%9F%8F%A0+I'm+live+in+S%C3%A3o+Paulo%2C+Brazil;%F0%9F%92%AC+I'm+speak+eng+and+ofc+pt" alt="Typing SVG" /></a>
+<div>
+ 
+🎓 Student and programming enthusiast with less than a year of experience.
 
- <div align="center">
-<img alt"CiCi0100-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img alt"CiCi0100-JS" height="50" width="50"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img alt"CiCi0100-HTML" height="50" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img alt"CiCi0100-CSS" height="50" width="50" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img alt"CiCi0100-VScode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />  
-<img alt"CiCi0100-Eclipse" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-<img alt"CiCi0100-Cucumber" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg">
+🔍 Passionate about learning new technologies and improving my skills in software development and Quality Assurance (QA).
 
+💻 Currently focused on personal projects to expand my knowledge in web, mobile and API testing.
+
+🛠️ Skills: organization, attention to detail and a strong desire to achieve excellence in everything I do.
+
+📈 Objective: contribute to challenging projects and continue learning and growing in the technology area.
+
+🌱 Always looking for new opportunities to learn and collaborate with other developers.</div>
+
+
+### Languages and Technologies
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java" />
+</a>
+
+### Frameworks and Libraries
+<div>
+ <img src=https://cdn.icon-icons.com/icons2/2148/PNG/512/robotframework_icon_132027.png width=50 height=50/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" width=50 height=50/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=50 height=50/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width=50 height=50 />
 </div>
 
-#
+### Tools and Platforms
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,npm,postman" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" width=50 height=50/>
+</a>
 
-<div align="center">
-<h3> 💼 Para Me Contatar </h3>
+
+### <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World" width="30" height="30"/> Let's connect!
+<div>
 <a href="mailto:ciarade0206@gmail.com?subject=Olá Ciara!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <a href="https://www.linkedin.com/in/ciaradepaulanascimento0206/" target="_blanc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+</div>
 
-#
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> My GitHub Stats
+<details>
+  <summary> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" height="25" /> Top Languages
+  </summary>
+  <p>
+     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CiCi0100&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=dracula">
+  </p>
+</details>
+<details>
+  <summary> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Hibiscus.png" alt="Hibiscus" width="25" height="25" /> GitHub Streak </summary>
+  <p>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CiCi0100&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&theme=dracula">
+  </p>
+</details>
+
 
 <picture>
   <source align="center" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
