@@ -35,15 +35,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width=50 height=50 />
 </div>
 
- ### <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Toolbox.png?raw=true" alt="Toolbox" width="30" height="30" > Tools and Platforms 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,postman" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" width=50 height=50/>
-</a>
-
-
-
-
+#
 
 <img align="right" width="540" height="270" src=https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif>
 
