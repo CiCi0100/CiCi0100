@@ -1,8 +1,8 @@
-### Hello Word, Welcome! I'm Ciara
 
-#
 
+<h1 align= right> Hello Word, Welcome! I'm Ciara </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=4000&pause=500&color=F7F7F7&random=false&width=435&lines=%F0%9F%92%BB+i'm+a+test+analyst+;%E2%9D%A3%EF%B8%8F+i'm+love+coding!!;%F0%9F%8F%A0+I'm+live+in+S%C3%A3o+Paulo%2C+Brazil;%F0%9F%92%AC+I'm+speak+eng+and+ofc+pt" alt="Typing SVG" /></a>
+
 <div>
  
 🎓 Student and programming enthusiast.
@@ -17,13 +17,18 @@
 
 🌱 Always looking for new opportunities to learn and collaborate with other developers.</div>
 
+#
 
-### Languages and Technologies
+
+
+<img align="right" width="620" height="310" src=https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif>
+
+### <img src= "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Diamond%20Suit.png?raw=true" alt="diamond" width="30" height="30"> Languages and Technologies 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,java" />
 </a>
 
-### Frameworks and Libraries
+### <img src= "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Books.png?raw=true" alt="books" width="30" height="30"> Frameworks and Libraries 
 <div>
  <img src=https://cdn.icon-icons.com/icons2/2148/PNG/512/robotframework_icon_132027.png width=50 height=50/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" width=50 height=50/>
@@ -31,11 +36,15 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width=50 height=50 />
 </div>
 
-### Tools and Platforms
+ ### <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Toolbox.png?raw=true" alt="Toolbox" width="30" height="30" > Tools and Platforms 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,npm,postman" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" width=50 height=50/>
 </a>
+
+
+
+
 
 
 ### <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World" width="30" height="30"/> Let's connect!
@@ -59,6 +68,7 @@
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CiCi0100&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&theme=dracula">
   </p>
 </details>
+
 
 
 <picture>
