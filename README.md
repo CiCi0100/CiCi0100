@@ -21,7 +21,6 @@
 
 
 
-<img align="right" width="540" height="270" src=https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif>
 
 ### <img src= "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Diamond%20Suit.png?raw=true" alt="diamond" width="30" height="30"> Languages and Technologies 
 <a href="https://skillicons.dev">
@@ -46,6 +45,7 @@
 
 
 
+<img align="right" width="540" height="270" src=https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif>
 
 ### <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World" width="30" height="30"/> Let's connect!
 <div>
