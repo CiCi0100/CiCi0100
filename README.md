@@ -29,7 +29,6 @@
 
 <h2> <img src= "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Books.png?raw=true" alt="books" width="30" height="30"> Frameworks and Libraries </h2>
 <div>
- <img src=https://cdn.icon-icons.com/icons2/2148/PNG/512/robotframework_icon_132027.png width=50 height=50/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" width=50 height=50/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=50 height=50/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width=50 height=50 />
