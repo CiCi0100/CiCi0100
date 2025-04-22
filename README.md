@@ -1,5 +1,3 @@
-
-
 <h1 align= right> Hello Word! :) </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=4000&pause=500&color=F7F7F7&random=false&width=435&lines=%F0%9F%92%BB+I'm+Ciara;%E2%9D%A3%EF%B8%8F+i'm+love+coding!!;%F0%9F%8F%A0+I'm+live+in+S%C3%A3o+Paulo%2C+Brazil;%F0%9F%92%AC+i'm+a+test+analyst" alt="Typing SVG" /></a>
 
@@ -22,10 +20,8 @@ Bem-vindo(a)! Meu nome é Ciara de Paula Nascimento. Desde 2023, atuo na área d
 <a>
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=50 height=50/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=50 height=50/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=50 height=50/>
- 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=50 height=50/> 
 </a>
-
 <h2>  Frameworks and Libraries </h2>
 <a>
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" width=50 height=50/>
@@ -39,6 +35,7 @@ Bem-vindo(a)! Meu nome é Ciara de Paula Nascimento. Desde 2023, atuo na área d
 <a>
  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" width=50 height=50 />
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=50 height=50/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width=50 height=50/>
 </a>
 </div>
 
