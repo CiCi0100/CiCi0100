@@ -5,6 +5,12 @@
 
 Bem-vindo(a)! Meu nome é Ciara de Paula Nascimento. Desde 2023, atuo na área de Desenvolvimento de Software, com foco em automação e execução de testes ao longo de todo o ciclo de desenvolvimento. Tenho experiência em automação de testes Web e de API utilizando JavaScript, TypeScript e Python. Sou certificada pelo CTFL (Certified Tester Foundation Level), o que reforça meus conhecimentos em fundamentos de testes de software. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div>
 
 #
@@ -62,4 +68,5 @@ Bem-vindo(a)! Meu nome é Ciara de Paula Nascimento. Desde 2023, atuo na área d
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CiCi0100&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&theme=dracula">
   </p>
 </details>
+
 
