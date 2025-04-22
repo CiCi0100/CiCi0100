@@ -9,7 +9,6 @@ Bem-vindo(a)! Meu nome é Ciara de Paula Nascimento. Desde 2023, atuo na área d
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
-#
 ## Tools and Platforms
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman" />
