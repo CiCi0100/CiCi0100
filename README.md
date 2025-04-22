@@ -3,7 +3,7 @@
 <h1 align= right> Hello Word! :) </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=4000&pause=500&color=F7F7F7&random=false&width=435&lines=%F0%9F%92%BB+I'm+Ciara;%E2%9D%A3%EF%B8%8F+i'm+love+coding!!;%F0%9F%8F%A0+I'm+live+in+S%C3%A3o+Paulo%2C+Brazil;%F0%9F%92%AC+i'm+a+test+analyst" alt="Typing SVG" /></a>
 
-Bem-vindo(a)! Meu nome é Ciara de Paula Nascimento. Desde 2023, atuo na área de Desenvolvimento de Software, com foco em automação e execução de testes ao longo de todo o ciclo de desenvolvimento. Tenho experiência em automação de testes Web e de API utilizando JavaScript, TypeScript e Python. Sou certificada pelo CTFL (Certified Tester Foundation Level), o que reforça meus conhecimentos em fundamentos de testes de software. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera.
+Bem-vindo(a)! Meu nome é Ciara de Paula Nascimento. Desde 2023, atuo na área de Desenvolvimento de Software, com foco em automação e execução de testes ao longo de todo o ciclo de desenvolvimento. Tenho experiência em automação de testes Web e de API utilizando JavaScript, TypeScript e Python. Sou certificada pelo CTFL (Certified Tester Foundation Level), o que reforça meus conhecimentos em fundamentos de testes de software. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
