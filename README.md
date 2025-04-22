@@ -9,35 +9,22 @@ Bem-vindo(a)! Meu nome é Ciara de Paula Nascimento. Desde 2023, atuo na área d
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div>
-
 #
-
-
-
-<div align=right>
-<h2> Languages and Technologies </h2>
-<a>
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=50 height=50/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=50 height=50/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=50 height=50/> 
-</a>
-<h2>  Frameworks and Libraries </h2>
-<a>
- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" width=50 height=50/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=50 height=50/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width=50 height=50 />
- <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" width=50 height=50 />
- <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" width=50 height=50 />
+## Tools and Platforms
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman" />
 </a>
 
-<h2> Tools and Platforms </h2>
-<a>
- <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" width=50 height=50 />
- <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=50 height=50/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width=50 height=50/>
+## Languages and Technologies 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python" />
 </a>
-</div>
+
+  
+##  Frameworks and Libraries 
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,selenium"/>
+</a>
 
 #
 
